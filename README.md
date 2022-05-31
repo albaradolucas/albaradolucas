@@ -12,7 +12,7 @@ I've been learning to code for more than 6 months and I've discovered my passion
 * 🚀  I'm currently working on [Web Menu for a bar](http://stalwart-meringue-6b0f69.netlify.app/)
 * 🧠  I'm learning Reviewing JS and learning ReactJS
 * 🤝  I'm open to collaborating on Projects requiring the energies of a young apprentice
-* ⚡  I'm the thunder⚡️
+* ⚡  I'm the thunder ⚡️
 
 ### Skills
 
