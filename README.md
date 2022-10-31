@@ -4,7 +4,7 @@ Hi 👋 My name is Lucas González
 Web Developer and Designer
 --------------------------
 
-I've been learning to code for more than 6 months and I've discovered my passion, the frontend. I want to become a FullStack Designer
+I've been learning to code for more than 1 year and I've discovered my passion, the frontend. I want to become a FullStack Designer
 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [Lucas Portfolio](http://relaxed-longma-8bf7c5.netlify.app/)
