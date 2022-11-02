@@ -9,7 +9,7 @@ I've been learning to code for more than 1 year and I've discovered my passion, 
 * 🌍  I'm based in Argentina
 * 🖥️  See my portfolio at [Lucas Portfolio](http://relaxed-longma-8bf7c5.netlify.app/)
 * ✉️  You can contact me at [lucasgtrabajo@gmail.com](mailto:lucasgtrabajo@gmail.com)
-* 🚀  I'm currently working on [Web Menu for a bar](http://stalwart-meringue-6b0f69.netlify.app/)
+* 🚀  I'm currently working on [a FullStack Project](http://stalwart-meringue-6b0f69.netlify.app/)
 * 🧠  I'm learning Reviewing JS and learning ReactJS
 * 🤝  I'm open to collaborating on Projects requiring the energies of a young apprentice
 * ⚡  I'm the thunder ⚡️
