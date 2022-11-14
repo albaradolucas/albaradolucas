@@ -7,10 +7,10 @@ Web Developer and Designer
 I've been learning to code for more than 1 year and I've discovered my passion, the frontend. I want to become a FullStack Designer
 
 * 🌍  I'm based in Argentina
-* 🖥️  See my portfolio at [Lucas Portfolio](http://relaxed-longma-8bf7c5.netlify.app/)
+* 🖥️  See my portfolio at [Lucas Portfolio](https://lucasgonzalezportfolio.netlify.app/)
 * ✉️  You can contact me at [lucasgtrabajo@gmail.com](mailto:lucasgtrabajo@gmail.com)
-* 🚀  I'm currently working on [a FullStack Project](https://reliable-lollipop-8c10de.netlify.app/)
-* 🧠  I'm learning Reviewing JS and learning ReactJS
+* 🚀  I'm currently working on [a WPA Project](https://musicne.netlify.app/)
+* 🧠  I'm learning NextJS and starting with C#
 * 🤝  I'm open to collaborating on Projects requiring the energies of a young apprentice
 * ⚡  I'm the thunder ⚡️
 
