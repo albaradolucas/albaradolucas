@@ -1,10 +1,10 @@
 Hi 👋 My name is Lucas González
 ===============================
 
-Web Developer and Designer
+NOC Operator | Sysadmin Student
+
 --------------------------
 
-I've been learning to code for more than 1 year and I've discovered my passion, the frontend. I want to become a FullStack Designer
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [lucasgtrabajo@gmail.com](mailto:lucasgtrabajo@gmail.com)
