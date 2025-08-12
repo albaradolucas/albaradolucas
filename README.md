@@ -1,7 +1,7 @@
 Hi 👋 My name is Lucas González
 ===============================
 
-NOC Operator | Sysadmin Student
+NOC Operator | Aspiring Linux Sysadmin | Network & Infrastructure Monitoring | DevOps Learner
 
 --------------------------
 
